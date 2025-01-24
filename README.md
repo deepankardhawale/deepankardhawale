@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepankardhawale" alt="deepankardhawale" /></a> </p>
 
-- 🔭 I’m currently working on [Web Extension for an internship](https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl/reviews)
+- 🔭 I’m currently working on Building an app and learning Flutter for an Internship
 
 - 🌱 I’m currently learning **Django(web development) ,C++, DSA, DAA, introducing myself to Apache Kafka**
 
